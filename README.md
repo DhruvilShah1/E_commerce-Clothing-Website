@@ -1,1 +1,2 @@
 # E_commerce-Clothing-Website
+The main aim of this project is to develop an Clothing website that allows users to browse and buy product easily. This website will help both customers and sellers by providing a simple, user-friendly platform. Customers can see pictures and descriptions of product, add items to their shopping cart. Sellers can manage their products and orders through an admin panel. This project will improve the shopping experience for customers and make it easier for sellers to reach more people.
